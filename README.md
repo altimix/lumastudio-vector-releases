@@ -4,13 +4,17 @@
 
 - [アプリを開く](https://lumastudiovector.altimix.jp/app)
 - [公式サイト・使い方](https://lumastudiovector.altimix.jp/)
-- [v0.2.0の配布ファイル](https://github.com/altimix/lumastudio-vector-releases/releases/tag/v0.2.0)
+- [v0.2.1の配布ファイル](https://github.com/altimix/lumastudio-vector-releases/releases/tag/v0.2.1)
 
 ## できること
 
 Illustratorの基本ペン・アンカー操作に合わせた曲線編集、mmの寸法、切断と線彫刻のレイヤー、保存・復元、SVG・DXF出力に対応します。SVGは曲線を保持し、DXFは許容誤差0.05 mmの折れ線で保存します。
 
 PCブラウザーのマウス・キーボード操作を推奨します。実機への接続・送信や速度・出力設定はレーザー制御ソフトで行ってください。LightBurn等での実取り込み・実機加工は未検証です。
+
+## ペンで輪郭を閉じる
+
+始点に近づくと接続の目印が出ます。クリックで輪郭を閉じ、そのままドラッグするとハンドルを引き出せます。接続範囲は直径24pxで、ズームしても画面上の押しやすさを保ちます。
 
 ## アクリルスタンド
 
