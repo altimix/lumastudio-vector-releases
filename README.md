@@ -4,13 +4,17 @@
 
 - [アプリを開く](https://lumastudiovector.altimix.jp/app)
 - [公式サイト・使い方](https://lumastudiovector.altimix.jp/)
-- [v0.2.1の配布ファイル](https://github.com/altimix/lumastudio-vector-releases/releases/tag/v0.2.1)
+- [v0.2.2の配布ファイル](https://github.com/altimix/lumastudio-vector-releases/releases/tag/v0.2.2)
 
 ## できること
 
 Illustratorの基本ペン・アンカー操作に合わせた曲線編集、mmの寸法、切断と線彫刻のレイヤー、保存・復元、SVG・DXF出力に対応します。SVGは曲線を保持し、DXFは許容誤差0.05 mmの折れ線で保存します。
 
 PCブラウザーのマウス・キーボード操作を推奨します。実機への接続・送信や速度・出力設定はレーザー制御ソフトで行ってください。LightBurn等での実取り込み・実機加工は未検証です。
+
+## カエデの見本
+
+「新規」→「カエデ・オーナメント」から、七つの葉先と葉脈を持つ見本を開けます。150 × 141 mmの外周と直径5 mmの吊り穴は切断、31本の葉脈は線彫刻です。ベジェ曲線として形や大きさを編集できます。既存の自動保存データは置き換えません。
 
 ## ペンで輪郭を閉じる
 
