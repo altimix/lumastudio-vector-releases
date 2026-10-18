@@ -1,11 +1,12 @@
 {
   "version": "0.6.0",
-  "sourceCommit": "0cd889321bdcb2a56ad7cb0626c161050bf7edfc",
-  "ciRun": "38920656063",
+  "sourceCommit": "316bd369858a33c37d18cb92f3b3e297c9b28f54",
+  "ciRun": "39086581648",
   "archive": "LumaStudio-Vector-0.6.0-web.zip",
-  "sha256": "fa2a0eb67aa8f9a4071c4987003f2f5f49350c9ebed50a92a54e7f9a6e20a4a8",
+  "sha256": "2db861a7705d55d7d24b7609616a97f99b43729396d9174658ae5fa2cc76942e",
+  "publication": "site-2026-10-18",
   "files": {
-    "404.html": "02516b2920bf2f7ece22333c851f99c6b46e0989e2f6475c8211209f2c066760",
+    "404.html": "1b7a4dde84ae0c6dc900490d74175c02d318adfbbfd61a24d5ae091ea945a5f5",
     "LICENSE.txt": "ce7c538fec91a7ca5e789cf5547aebcebd02fbc5316d402606f4bf9d1063adc9",
     "THIRD_PARTY_NOTICES.txt": "a93a5c3ab234ba10e48a85f6f391aa6b7d346931143ffdf4e1be2d72394e7f18",
     "_headers": "f855aa7983e0ddbce4caacbbc0f5bc58c9fe2847fd670d9e32344826b30d5485",
@@ -28,8 +29,10 @@
     "app/icon.svg": "eb118e4c6f63b48c8ca6708589598d3ae56ee0831fea67b144c28d1a9a97b84d",
     "app/index.html": "35a74d56380ad4dcd87d046c74dc95cfa85cdb8172f53263a184bec220f21fcc",
     "assets/editor.png": "df4a8bcd8fc35d926dbc7a0c5911e7961b1fe6dcfbee133d2e925b93e2756750",
+    "assets/product-colors.css": "e584f537ec5f54c517de191aaa243787f582f4769e181e89ce2884451a7fba43",
+    "assets/series.css": "b36faf3b254a1867d429e68a6e9ca2d4904b91a6ce7060249d967dd7368f8621",
     "assets/site.css": "533818fa33a7b0f937d58dd1b72443eea2c3d15cf1df7af266ca0ef0c8e2b023",
-    "index.html": "bea9e792068ce6887faa2cf0157e4873b04f4f70a79feba0b7eb31f2807c820a",
+    "index.html": "8b9fb708c509cf3614c1e47012dae558a14b336e5b9c5a42cc74132d598cf3c0",
     "robots.txt": "cbfaee048844ae0ab233c2b0a4949ab2a2569341acff9fca26f2ce3fc1c42214",
     "sitemap.xml": "34a7df0e930d6712a501356f9fb41842b094316e18ecf5d185d03866e3eea46d"
   }
