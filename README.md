@@ -2,9 +2,9 @@
 
 レーザーカッター専用の日本語ベジェ曲線Webアプリです。
 
-- [アプリを開く](https://lumastudiovector.altimix.jp/app)
-- [公式サイト・使い方](https://lumastudiovector.altimix.jp/)
-- [v0.6.0の配布ファイル](https://github.com/altimix/lumastudio-vector-releases/releases/tag/v0.6.0)
+- [アプリを開く](https://vector.lumastudio.jp/app)
+- [公式サイト・使い方](https://vector.lumastudio.jp/)
+- [v0.6.1の配布ファイル](https://github.com/altimix/lumastudio-vector-releases/releases/tag/v0.6.1)
 
 ## ショートカット表示と数値の調整
 

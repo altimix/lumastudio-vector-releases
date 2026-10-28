@@ -3,19 +3,21 @@
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://raw.githubusercontent.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://raw.githubusercontent.com https://cloudflareinsights.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'
 /
-  Cache-Control: no-cache
+  Cache-Control: no-cache, no-transform
 /index.html
-  Cache-Control: no-cache
+  Cache-Control: no-cache, no-transform
 /app
-  Cache-Control: no-cache
+  Cache-Control: no-cache, no-transform
 /app/
-  Cache-Control: no-cache
+  Cache-Control: no-cache, no-transform
 /app/index.html
-  Cache-Control: no-cache
+  Cache-Control: no-cache, no-transform
 /404.html
-  Cache-Control: no-cache
+  Cache-Control: no-cache, no-transform
+/app/assets/TextDialog-BInUdu-s.js
+  Cache-Control: public, max-age=31536000, immutable
 /app/assets/TextDialog-BmIaQkoh.js
   Cache-Control: public, max-age=31536000, immutable
 /app/assets/TextDialog-C_oosqm6.js
@@ -26,21 +28,19 @@
   Cache-Control: public, max-age=31536000, immutable
 /app/assets/index-Bf9tOZ4u.js
   Cache-Control: public, max-age=31536000, immutable
-/app/assets/index-CEYvnrNN.css
-  Cache-Control: public, max-age=31536000, immutable
 /app/assets/index-CQu_lEQF.css
   Cache-Control: public, max-age=31536000, immutable
 /app/assets/index-CqSwJ5VM.css
   Cache-Control: public, max-age=31536000, immutable
-/app/assets/index-Czgs2lvU.js
+/app/assets/index-D40PS-li.js
   Cache-Control: public, max-age=31536000, immutable
 /app/assets/index-DgMU93lZ.js
   Cache-Control: public, max-age=31536000, immutable
 /app/assets/index-DwkmorNE.css
   Cache-Control: public, max-age=31536000, immutable
-/app/assets/stand-package-Cx21PiO6.js
+/app/assets/stand-package-CWKtSITX.js
   Cache-Control: public, max-age=31536000, immutable
-/app/assets/stand-package-DJeClCdP.js
+/app/assets/stand-package-Cx21PiO6.js
   Cache-Control: public, max-age=31536000, immutable
 /app/assets/stand-package-a45Oxuxr.js
   Cache-Control: public, max-age=31536000, immutable
